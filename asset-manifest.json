@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/johnaribatise1217.github.io/dash1/static/css/main.76d2984d.css",
+    "main.js": "/johnaribatise1217.github.io/dash1/static/js/main.0a019cc7.js",
+    "index.html": "/johnaribatise1217.github.io/dash1/index.html",
+    "main.76d2984d.css.map": "/johnaribatise1217.github.io/dash1/static/css/main.76d2984d.css.map",
+    "main.0a019cc7.js.map": "/johnaribatise1217.github.io/dash1/static/js/main.0a019cc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76d2984d.css",
+    "static/js/main.0a019cc7.js"
+  ]
+}
